@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/19/20181027153732%21Logo_TVE-1.svg/120px-Logo_TVE-1.svg.png",La 1 (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/19/20181027153732%21Logo_TVE-1.svg/120px-Logo_TVE-1.svg.png" group-title="General",La 1 (España)
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/188px-Logo_TVE-2.svg.png",La 2 (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/188px-Logo_TVE-2.svg.png" group-title="General",La 2 (España)
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png",Canal 24h
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="News",Canal 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tiSMdQy5-FVYZt9MNg6DOajdbbqNNgFN0GS3y4pZ5CaJPiwVkwC2wpalV6M2G_OfVV1SHgqTA40=s900-c-k-c0x00ffffff-no-rj",El Hormiguero (España)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tiSMdQy5-FVYZt9MNg6DOajdbbqNNgFN0GS3y4pZ5CaJPiwVkwC2wpalV6M2G_OfVV1SHgqTA40=s900-c-k-c0x00ffffff-no-rj" group-title="Entertainment",El Hormiguero (España)
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/El_Club_de_la_Comedia.svg/924px-El_Club_de_la_Comedia.svg.png",El Club De La Comedia (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/El_Club_de_la_Comedia.svg/924px-El_Club_de_la_Comedia.svg.png" group-title="Entertainment",El Club De La Comedia (España)
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png",Disney Channel ᴱˢ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10298.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png",Disney Channel ᴱⁿ⁼ᵁᵏ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel ᴱⁿ⁼ᵁᵏ
 https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png",Disney Channel ᴱⁿ⁼ᵁˢ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel ᴱⁿ⁼ᵁˢ
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/478FD8CFD6A5B1CF3A4FA161EB73ADD0739CE06476D9D4DF80E6498D24BADB33/scale?width=600&aspectRatio=1.78&format=png",Disney JR ᴱˢ
+#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/478FD8CFD6A5B1CF3A4FA161EB73ADD0739CE06476D9D4DF80E6498D24BADB33/scale?width=600&aspectRatio=1.78&format=png" group-title="Cartoons",Disney JR ᴱˢ
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DISNEYJR/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/3c0997aa2d65d2c7bf27fcd0b83b94df/386x218-Q90_3c0997aa2d65d2c7bf27fcd0b83b94df.png",Disney JR ᴱᴺ
+#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/3c0997aa2d65d2c7bf27fcd0b83b94df/386x218-Q90_3c0997aa2d65d2c7bf27fcd0b83b94df.png" group-title="Cartoons",Disney JR ᴱᴺ
 https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",Disney XD ᴱᴺ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cartoons",Disney XD ᴱᴺ
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network ᴱˢ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoons",Cartoon Network ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network ᴱᴺ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoons",Cartoon Network ᴱᴺ
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png",Boing ᴱˢ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="Cartoons",Boing ᴱˢ
 https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/BoingTV/mt_boing.m3u
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Clan.png",Clan España ᴱˢ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Clan.png" group-title="Cartoons",Clan España ᴱˢ
 https://rtvelivestream.akamaized.net/rtvesec/clan/clan_main_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Clan.png",Clan Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Clan.png" group-title="Cartoons",Clan Internacional
 https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png",Nick JR ᴱˢ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png" group-title="Cartoons",Nick JR ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10299.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito ᴱˢ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoons",Cartoonito ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10296.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png",Cartoonito ᴱᴺ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoons",Cartoonito ᴱᴺ
 http://202.75.23.36/live/ch49/03.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png",Nick JR ᴱᴺ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png" group-title="Cartoons",Nick JR ᴱᴺ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line-thumbnail.png",CNN International
+#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line-thumbnail.png" group-title="News",CNN International
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/330px-Discovery_logo_2021.svg.png",Discovery Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Discovery_logo_2021.svg/330px-Discovery_logo_2021.svg.png" group-title="Adventure",Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/338px-DMAX_Spain_2023_Logo.svg.png",DMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_Spain_2023_Logo.svg/338px-DMAX_Spain_2023_Logo.svg.png" group-title="Adventure",DMAX
 https://tvnoov.com/fadoo/dmax.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/993/465/png-clipart-vevo-youtube-music-video-youtube-text-trademark-thumbnail.png",Vevo 2k
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/993/465/png-clipart-vevo-youtube-music-video-youtube-text-trademark-thumbnail.png" group-title="Music",Vevo 2k
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVuqd8LpANErjfyHMVvz7EN81q9oiUzGlK0Q&s", Sky Sports - La Liga ᴱˢ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVuqd8LpANErjfyHMVvz7EN81q9oiUzGlK0Q&s" group-title="Sport", Sky Sports - La Liga ᴱˢ
 http://181.78.105.146:2000/play/a08m/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/FIFA%2B.png/revision/latest?cb=20230611043452&path-prefix=es",Fifa+ (España)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/FIFA%2B.png/revision/latest?cb=20230611043452&path-prefix=es" group-title="Sport",Fifa+ (España)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s",Eurosport 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa02LLWr8M_-Yu6Q6vr_TRHRe6Y-h5vJYj7A&s" group-title="Sport",Eurosport 1
 http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png" group-title="Cartoons",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s",Telemundo ᴱˢ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo ᴱˢ
 https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s",Telemundo ᴱᴺ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo ᴱᴺ
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png",STAR Channel ᴱˢ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Entertainment",STAR Channel ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
