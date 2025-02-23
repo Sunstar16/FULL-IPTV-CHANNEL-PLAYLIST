@@ -55,13 +55,13 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/800px-Eurosport_2_Logo_2015.svg.png" group-title="Sport",Eurosport 2
 http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo ᴱˢ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo (opción 1)
 https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo ᴱᴺ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmGkbufHmm8IkWOeiv9-ib1uPNIQBTnW_62Q&s" group-title="General",Telemundo (opción 2)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Entertainment",STAR Channel ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_2013_%28flat_version%29.svg/200px-NBC_2013_%28flat_version%29.svg.png" group-title="Entertainment",Universal Cinema
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Entertainment",Universal Cinema
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo26z0IKwPVNfeSgwy4OtUHoLCvLmzyqm70g&usqp=CAU" group-title="Entertainment",Paramount Movie Channel ᴱᴺ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
