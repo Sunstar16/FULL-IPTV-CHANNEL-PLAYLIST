@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/1/19/20181027153732%21Logo_TVE-1.svg/120px-Logo_TVE-1.svg.png" group-title="General",La 1 (España)
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/188px-Logo_TVE-2.svg.png" group-title="General",La 2 (España)
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="News",Canal 24h
@@ -61,3 +61,9 @@ https://d3i0aurg3nyoct.cloudfront.net/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Entertainment",STAR Channel ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NBC_2013_%28flat_version%29.svg/200px-NBC_2013_%28flat_version%29.svg.png" group-title="Entertainment",Universal Cinema
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo26z0IKwPVNfeSgwy4OtUHoLCvLmzyqm70g&usqp=CAU" group-title="Entertainment",Paramount Movie Channel ᴱᴺ
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4OeVQcQZLs6qSut75rQW_R-CWCQTdAfQEw&usqp=CAU" group-title="Entertainment",Paramount Network ᴱᴺ
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
