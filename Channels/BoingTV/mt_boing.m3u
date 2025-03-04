@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="boing" tvg-logo="https://album.mediaset.es/cimg/2023/0403/08/epgchannel-boing-logo-e5d4cc3.png", boing
-#EXTVLCOPT:http-referrer=mitele
-https://directos.mitele.es/orilinear23/live/linear23/playlist/playlist.isml/ctv.m3u8?t=1&hdnts=st=1739630007~exp=1739630187~acl=/*~hmac=cf1dd38b3de6e1bfdbbb12b7bdfbc97c9a5cd7ba7a6fbb85a9ebdfc6ddc55a58
