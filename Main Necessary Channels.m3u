@@ -3,10 +3,12 @@
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/188px-Logo_TVE-2.svg.png" group-title="General",La 2 España
 https://rtvelivestream.akamaized.net/rtvesec/cat/la2_cat_main.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Kd8sVQoYlKqAWDROY6Efc2JPtwQtAmTsHI5KNchcvJmaAQHbGQtFV-nI&s=10" group-title="General",Cuatro HD España (Use Mexico VPN)
-https://huhu.to/play/4194733823/index.m3u8
-#EXTINF:-1 tvg-logo="https://eu-central.storage.cloudconvert.com/tasks/c33a7ff3-6dfb-4cd9-baba-bad639348d53/F4CF0BED-8815-4F84-BB7E-742689CCEE4D.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20250301%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20250301T154559Z&X-Amz-Expires=86400&X-Amz-Signature=d96bb0e2c7be1073f7b7a9f9641befdb276fb80866fdc83c12ffc13414e90ca5&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22F4CF0BED-8815-4F84-BB7E-742689CCEE4D.png%22&response-content-type=image%2Fpng&x-id=GetObject" group-title="General",Telecinco HD España (Use Mexico VPN)
-https://huhu.to/play/353095972/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/antena%203.png?raw=true" group-title="General",Antena 3
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/eINo6W8rroAVFYvb_Ma2ZVuksHK1gJlKNMXIFmhrs1AN5QWJhP_judrEAlTP5xkWGJDiECC2KXnKQUqiSnZIr2RpldCVIOVd98OS_XdtG_yyvTYGqF112IQzs-0dgguMjtiOY5j5mp92LaPPKXwejALiF7jAzejTizx6qm0OA52T9dPNJlBqlrVYpgNYzTDr/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/PNG%20image.png?raw=true" group-title="General",Cuatro HD España (Use Mexico VPN)
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/lMW3gxAqVij9uj26R2hkHfs9tb_gSunn5xzsJARaHsDr6sxJWaVoX7DjYbZSzR6wOj2o4QIfQM2MuuZiiBKjXxPt9q7QIG4VXVDIuy3jV-HcjOFfDkABhBonlhYz9QaQbo21zk2obUcJgfmYTAMnOrmxTzLAdpc6oISHCTNn46Lu0rKi3DlQaLwzNkN-jzLr/hls/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/telecinco.png?raw=true" group-title="General",Telecinco HD España (Use Mexico VPN)
+https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/WBruXJbsptZLRsSxromB1M9q4I2DXGbWPQp5hMyt77zZnQLL6prgZU4rP0Lhuo3mDVy9LxChRv7RxcS-sybxw04jVosQk1Coa7iH5PRC39Bu4UGo42zSH62NZ7uDv-JbpjItpliRBdw3ALDcUZOYEZxssiKCOJp17WRWHqGcVuc-2HhYDzWZ4bx8-QZTePiU/hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/9E30380F-5FB6-45C1-9F50-8A0D0C60473D.jpeg?raw=true" group-title="General",La Sexta España (Use Mexico VPN)
 https://huhu.to/play/238901671/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/702px-Logo_TVE-24h.svg.png" group-title="News",Canal 24h
