@@ -42,9 +42,9 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png" group-title="Cartoons",Nick JR ᴱˢ
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10299.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoons",Cartoonito ᴱˢ
-http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoons",Cartoonito ᴱᴺ
-https://stream1.freetv.fun/f7564849b93741869fc119601a1b3b6d47fbabb9b8ed271d86f73d39bb6e708c.m3u8
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10296.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1200px-Cartoonito_-_Logo_2021.svg.png" group-title="Cartoons",Cartoonito ᴱᴺ (Use Mexico VPN)
+https://huhu.to/play/2618821588/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/Nick_Jr._logo_2023.png" group-title="Cartoons",Nick JR ᴱᴺ
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 #EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/206/434/png-transparent-logo-cnn-news-logo-of-nbc-media-text-red-line-thumbnail.png" group-title="News",CNN International
@@ -83,5 +83,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4OeVQcQZLs6qSut75rQW_R-CWCQTdAfQEw&usqp=CAU" group-title="Entertainment",Paramount Network ᴱˢ
 http://185.189.225.150:85/Paramount/index.m3u8
-#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR272cKRw178tOC3pctnsfrGgBl9FtiBxp3rQ&usqp=CAU" group-title="News"
+#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR272cKRw178tOC3pctnsfrGgBl9FtiBxp3rQ&usqp=CAU" group-title="News",TeleMadrid
 https://new-international-23-secure2.akamaized.net/index.m3u8
+#EXTINF:-1 tv-logo="https://png2.cleanpng.com/downloadpng/17a744e184dd0eb166815aa9a51ac13e/L4Dxd3E5UME5OGc1T5H9bDBuecT6kP5oNZ10f9G2b3awfrPqTf5ja6ZzgehucoPkfH77hfxmfpp4gdH3LYTofrBskCNmbV5xhAZ9ZYL8PYbpUck4QZQ5eaY8MkO0PoOCUMQyPmg6Sac7OEO8RoO5WMY4OmcziNDw.png" group-title="Sport",NBC Sports
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
