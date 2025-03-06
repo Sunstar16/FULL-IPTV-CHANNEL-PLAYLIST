@@ -83,3 +83,5 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc4OeVQcQZLs6qSut75rQW_R-CWCQTdAfQEw&usqp=CAU" group-title="Entertainment",Paramount Network ᴱˢ
 http://185.189.225.150:85/Paramount/index.m3u8
+#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR272cKRw178tOC3pctnsfrGgBl9FtiBxp3rQ&usqp=CAU" group-title="News"
+https://new-international-23-secure2.akamaized.net/index.m3u8
