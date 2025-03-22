@@ -26,7 +26,7 @@ http://38.96.178.201/live/Disney/index.m3u8
 #EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/478FD8CFD6A5B1CF3A4FA161EB73ADD0739CE06476D9D4DF80E6498D24BADB33/scale?width=600&aspectRatio=1.78&format=png" group-title="Cartoons",Disney JR ᴱˢ
 http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/dnow/Images/tile/2057726/3c0997aa2d65d2c7bf27fcd0b83b94df/386x218-Q90_3c0997aa2d65d2c7bf27fcd0b83b94df.png" group-title="Cartoons",Disney JR ᴱᴺ
-https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+http://143.244.60.97/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Cartoons",Disney XD ᴱᴺ
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoons",Cartoon Network ᴱˢ
