@@ -93,3 +93,5 @@ https://huhu.to/play/1887937225/index.m3u8
 https://huhu.to/play/3996529465/index.m3u8
 #EXTINF:-1 tv-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Nickelodeon_Splat_2023_Sin_Fondo.png/revision/latest?cb=20230810205054&path-prefix=es" group-title="Cartoons",Nickelodeon ᴱˢ
 http://clubtv.link/marzo17/phpcode/lista0.php?c=92&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/960px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="News",BBC World News
+https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
