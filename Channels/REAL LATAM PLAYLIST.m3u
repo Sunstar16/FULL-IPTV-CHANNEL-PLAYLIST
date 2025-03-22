@@ -1,0 +1,819 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="RECOMENDADOS", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (excepto pelis)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="RECOMENDADOS", Las Estrellas (excepto pelis)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="ImagenTV.mx" tvg-name="Imagen Television" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png"  group-title="RECOMENDADOS", Imagen Television
+http://181.78.105.146:2000/play/a00h/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png"  group-title="RECOMENDADOS", Canal 5
+http://181.78.105.146:2000/play/a038/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png"  group-title="RECOMENDADOS", Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN MX
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="RECOMENDADOS", ESPN HD
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="RECOMENDADOS", ESPN 2 HD
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="RECOMENDADOS", ESPN 3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="RECOMENDADOS",FOX SPORTS HD
+http://bgtv.xyz/play/play-127.php?ul=527&token=dfghdfghfghdfghdfg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="RECOMENDADOS",FOX SPORTS 2 HD
+http://bgtv.xyz/play/play-127.php?ul=528&token=dfghdfghfghdfghdfg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="RECOMENDADOS",FOX SPORTS 3 HD
+http://bgtv.xyz/play/play-127.php?ul=54&token=dfghdfghfghdfghdfg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx" tvg-name="Fox Sports Premium MX op2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png" group-title="RECOMENDADOS", Fox Sports Premium MX op1
+http://bgtv.xyz/play/play-127.php?ul=512&token=dfghdfghfghdfghdfg
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-name="Claro Sports" tvg-logo="https://olimpicos.clarosports.com/assets/themes/olimpicos/images/olimpicos-logo.png"  group-title="RECOMENDADOS", Claro Sports
+https://dai.google.com/linear/hls/event/r5w9dL8MT8ygfiegKRCUtw/master.m3u8
+##EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision" tvg-logo=""  group-title="RECOMENDADOS", Univision
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=2000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="UnivisionNetwork(Spanish).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019.png"  group-title="RECOMENDADOS", Univision Miami
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="UniMas(East)(Spanish).us" tvg-name="Unimas USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/2669px-Logo_UniM%C3%A1s_2021.svg.png"  group-title="RECOMENDADOS", Unimas USA
+http://23.237.66.106:25461/now_160322/now2.php?id=UNIMASEAST&calidad=sd&.m3u8
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="RECOMENDADOS", TUDN USA
+http://bgtv.xyz/play/play-127.php?ul=698&token=dfghdfghfghdfghdfg
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1  tvg-id="FoxDeportes(Spanish).us" tvg-name="FOX DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/FOX_Deportes_logo.png" group-title="RECOMENDADOS", FOX DEPORTES
+https://sdmx.vip:443/F4PLAYDF/3BVz78VTs8kC/200284
+##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-id="ESPNDeportes(Spanish).us" tvg-name="ESPN Deportes HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png"  group-title="RECOMENDADOS", ESPN Deportes
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/6446
+
+
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Uno
+http://181.78.105.146:2000/play/a04p/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",LAS ESTRELLAS
+http://181.78.105.146:2000/play/a00g/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Imagen
+http://181.78.105.146:2000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Cinco
+http://181.78.105.146:2000/play/a038/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Canal 6 CDMX
+http://181.78.105.146:2000/play/a039/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Siete
+http://181.78.105.146:2000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",ONCE
+http://181.78.105.146:2000/play/a03a/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Canal 14
+http://181.78.105.146:2000/play/a044/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",UNAM
+http://181.78.105.146:2000/play/a045/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Canal22
+http://181.78.105.146:2000/play/a00j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",Congreso
+http://181.78.105.146:2000/play/a046/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",MVSTV
+http://181.78.105.146:2000/play/a03b/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",Universal
+http://181.78.105.146:2000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",SONY
+http://181.78.105.146:2000/play/a002/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",WB
+http://181.78.105.146:2000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",TNTSE
+http://181.78.105.146:2000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",AXN
+http://181.78.105.146:2000/play/a05y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",FX
+http://181.78.105.146:2000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",Space MX
+http://181.78.105.146:2000/play/a04x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",A&E
+http://181.78.105.146:2000/play/a03f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",Investigation Discovery La
+http://181.78.105.146:2000/play/a04y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",DH&H
+http://181.78.105.146:2000/play/a03g/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",TLC
+http://181.78.105.146:2000/play/a03h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",Lifetime
+http://181.78.105.146:2000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",HOLA
+http://181.78.105.146:2000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",E!
+http://181.78.105.146:2000/play/a03i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento",ComedyC
+http://181.78.105.146:2000/play/a04a/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Musica",VideRola
+http://181.78.105.146:2000/play/a04c/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Musica",TELER
+http://181.78.105.146:2000/play/a03u/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",OnceKids
+http://181.78.105.146:2000/play/a04f/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Infantil",DisneyJR
+http://181.78.105.146:2000/play/a03j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Infantil",NICKELODEON
+http://181.78.105.146:2000/play/a014/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Infantil",CartoonNetwork
+http://181.78.105.146:2000/play/a03k/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Infantil",Discovery kids
+http://181.78.105.146:2000/play/a015/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",MXNuestroCine
+http://181.78.105.146:2000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico",IngenioTV
+http://181.78.105.146:2000/play/a04i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Cultura",Discovery
+http://181.78.105.146:2000/play/a03x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Cultura",NatGeo
+http://181.78.105.146:2000/play/a01l/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Cultura",History
+http://181.78.105.146:2000/play/a017/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Cultura",History2
+http://181.78.105.146:2000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Musica",Arts
+http://181.78.105.146:2000/play/a04j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Deportes",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Deportes",ESPN 2
+http://181.78.105.146:2000/play/a063/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Deportes",ESPN
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Deportes",ESPN3
+http://181.78.105.146:2000/play/a03n/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias",CNNE
+http://181.78.105.146:2000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias",Milenio
+http://181.78.105.146:2000/play/a00y/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias",MNMX
+http://181.78.105.146:2000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias",Judicial
+http://181.78.105.146:2000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",TNT
+http://181.78.105.146:2000/play/a018/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",MC
+http://181.78.105.146:2000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",CineCanal O
+http://181.78.105.146:2000/play/a04q/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",Film&Arts
+http://181.78.105.146:2000/play/a08i/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",StudioUniversal
+http://181.78.105.146:2000/play/a04o/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas",Paramount
+http://181.78.105.146:2000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias", AGROTENDENCIA
+http://181.78.105.146:2000/play/a08b/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Mexico", Azteca 7
+http://181.78.105.146:2000/play/a08z/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Peliculas", Cine Mexicano TV
+http://181.78.105.146:2000/play/a092/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento", Distrito Comedia
+http://181.78.105.146:2000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento", Telemundo USA
+http://181.78.105.146:2000/play/a093/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Deportes", SKY LA LIGA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento", TLNOVELAS
+http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Noticias", TN23
+http://181.78.105.146:2000/play/a08g/index.m3u8
+#EXTINF:-1 tvg-shift="0" tvg-name="TUDNM" group-title="Deportes", TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-shift="0"  group-title="Entretenimiento", UNICABLE
+http://181.78.105.146:2000/play/a08f/index.m3u8
+
+
+#EXTINF:-1 group-title="24/7", Run Time Latino
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
+#EXTINF:-1 group-title="24/7", Run Time Films
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7", Run Time Espanyol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+#EXTINF:-1 group-title="24/7", Run Time Cine y Series
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
+#EXTINF:-1 group-title="24/7", Run Time English
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
+#EXTINF:-1 group-title="24/7", Run Time France
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
+#EXTINF:-1 group-title="24/7", Run Time Brasil
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+#EXTINF:-1 group-title="24/7", Run Time Familia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+#EXTINF:-1 group-title="24/7", Run Time Terror
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
+#EXTINF:-1 group-title="24/7", Run Time Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
+#EXTINF:-1 group-title="24/7", Run Time Crimen
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
+#EXTINF:-1 group-title="24/7", Run Time Comedia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
+#EXTINF:-1 group-title="24/7", Run Time Acción
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
+#EXTINF:-1 group-title="24/7", Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+#EXTINF:-1 group-title="24/7", Canela Network
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
+#EXTINF:-1 group-title="24/7", Canela Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
+#EXTINF:-1 group-title="24/7", Canela Novelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+#EXTINF:-1 group-title="24/7", Canela Clásicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+#EXTINF:-1 group-title="24/7", Canela Hits
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+#EXTINF:-1 group-title="24/7", Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+#EXTINF:-1 group-title="24/7", Canela Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
+#EXTINF:-1 group-title="24/7", Canela Novelisima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:-1 group-title="Deportes", ITV DEPORTES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 group-title="Deportes", AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="24/7", Combate Global
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="24/7", Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
+#EXTINF:-1 group-title="24/7", Kanal D Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:-1 group-title="Entretenimiento", Corazón Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
+#EXTINF:-1 group-title="Entretenimiento", Clic Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
+#EXTINF:-1 group-title="Peliculas", Cinema Fast
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
+#EXTINF:-1 group-title="24/7", Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 group-title="24/7", CombaTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
+#EXTINF:-1 group-title="24/7", WPT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
+#EXTINF:-1 group-title="24/7", C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 group-title="Mexico", Canal 6 CDMX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
+#EXTINF:-1 group-title="Noticias", Milenio Televisión
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 group-title="Noticias", Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+#EXTINF:-1 group-title="Noticias", Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+#EXTINF:-1 group-title="Mexico", Azteca Uno (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
+#EXTINF:-1 group-title="Mexico", Imagen TV+ (-1h)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
+#EXTINF:-1 group-title="Musica",Vevo Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Latino
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Iconos Latinos
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Reggaeton & Trap
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Regional Mexicano
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Country
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo R&B
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '70s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '80s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo '90s
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo 2K
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Musica",Vevo Hip-Hop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Mexico",N+ Foro (US Feed)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+#EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVSTV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 tvg-id="XHIMTTDT2.mx" tvg-name="A+ CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Mexico",A+ CDMX
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Once.3" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/496848-8c.png" group-title="Mexico",Once.3
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/518551-8c.png" group-title="Mexico",Canal Catorce
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Migrante" tvg-logo="https://mxplus.tv/images/roku/tv-migrante.jpg" group-title="Mexico",TV Migrante
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1795049700.m3u8
+#EXTINF:-1 tvg-id="TVUNAM.mx" tvg-name="TV UNAM" tvg-logo="https://unamenlinea.unam.mx/recursos/img/84753/tv-unam--bajo-demanda2.png" group-title="Mexico",TV UNAM
+https://cdn.mycloudstream.io/hls/live/broadcast/f8zowjae/index.m3u8
+#EXTINF:-1 tvg-id="XEIMTTDT.mx" tvg-name="Canal 22" tvg-logo="https://manualdeimagen.canal22.org.mx/img/bn.png" group-title="Mexico",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XEIMTDT2.mx" tvg-name="MX Nuestro Cine" tvg-logo="https://paradigmaculturalcom.files.wordpress.com/2022/11/logo_mx_1000x1000.png" group-title="Mexico",MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CongresoNacionalTV.mx" tvg-name="Canal Del Congreso 45.1" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="Mexico",Canal Del Congreso 45.1
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.2" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="Mexico",Canal Del Congreso 45.2
+https://edgeplay.canaldelcongreso.gob.mx/live_sd2/smil:canal-sd2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal Del Congreso 45.3" tvg-logo="https://www.canaldelcongreso.gob.mx/Resources/Medias/Generales/jha5m2nc.png" group-title="Mexico",Canal Del Congreso 45.3
+https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="XHAWDT.mx" tvg-name="Canal 6 MTY" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="XHOAHTDT.mx" tvg-name="Canal 6 LAG" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 LAG
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GDL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 GDL
+http://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 PUE" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 PUE
+http://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 GTO" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 GTO
+http://mdstrm.com/live-stream-playlist/5d4b0fec848918070128c8cb.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 SAL" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 SAL
+http://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 6 CDJ" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 CDJ
+http://mdstrm.com/live-stream-playlist/5d9e440d675235586a92be7f.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 8 SJCR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="Extranjera",Canal 8 SJCR
+https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Teleritmo.mx" tvg-name="Teleritmo" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/940722-8c.png" group-title="Musica",Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio Televisión" tvg-logo="https://startvmexico.com/wp-content/uploads/2023/01/C_603-400x360.png"  group-title="Noticias", Milenio Televisión
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Capital 21 CDMX" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/506425-8c.png" group-title="Mexico",Capital 21
+https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
+#EXTINF:-1 tvg-id="XHGEMTDT.mx" tvg-name="Mexiquense Televisión" tvg-logo="https://s3.amazonaws.com/rytvmx/wpmedia/2024/02/29174858/logoheader-e1709250778948.png" group-title="Mexico",Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj" group-title="Mexico",AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="Mexico",Jalisco TV
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="Mexico",Canal 28 NL
+https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.1" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.1-140x140.jpg" group-title="Mexico",SICOM Televisión 16.1
+https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.2" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.2-140x140.jpg" group-title="Mexico",SICOM Televisión 16.2
+https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://tvcuatro.tv/images/logo-menu.png" group-title="Mexico",TV4 Gto.
+https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png" group-title="Mexico",TV4.2 Gto.
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png" group-title="Mexico",TV4.3 Gto.
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morelos TV 15.1" tvg-logo="https://morelostv.org/wp-content/uploads/2023/05/morelostv-logo.jpg" group-title="Mexico",Morelos TV 15.1
+https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="Mexico",Diez Chiapas
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="Mexico",SMRTV 16.1
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png" group-title="Mexico",TV Mas 26.1
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sizart TV" tvg-logo="https://www.sizart.org.mx/images/WhatsApp_Image_2022-02-04_at_72759_PM.jpeg" group-title="Mexico",Sizart TV
+https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png" group-title="Mexico",RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Cancún/Heraldo Televisión Canal 8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="Mexico",Canal 10 Cancún/Heraldo Televisión Canal 8
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="Noticias",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Extranjera",RT (Español)
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="TeleSur.co" tvg-name="Telesur" group-title="Extranjera",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEspanol.mx" tvg-name="DW (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416699-8c.png" group-title="Extranjera",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425437-8c.png" group-title="Extranjera", France 24
+https://cdn.mycloudstream.io/hls/live/broadcast/mff4n5ey/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo=""  group-title="Extranjera", CGTN Español
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="EstrellaTV(Spanish).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Entretenimiento", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png" group-title="Mexico", AZTECA UNO (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Azteca_7_%282016_Blank%29.svg/1200px-Azteca_7_%282016_Blank%29.svg.png" group-title="Mexico", AZTECA 7 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/605535-8c.png" group-title="Mexico", A MÁS (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/1038568-8c.png" group-title="Mexico", ADN40 (SIN CORTES)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-logo="https://ryta.com.mx/wp-content/uploads/2023/05/valogo4.png" group-title="Mexico", VA+ 26.1
+http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
+#EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="Musica", VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-id="Megaoticias.mx" tvg-logo="" group-title="Noticias", Meganoticias MX
+https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="Musica", Retro Plus TV
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/671e88dc2d4bc0b001691b0692016976cf4e9d6de3e9d9652edc131f4fcf14a4.png" group-title="Entretenimiento", Ruidos TV
+https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.portalfoxmix.cl/radioenvivo/images/recta-pfm-tv.png" group-title="Musica", Portal FoxMix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/Retro-Music-Television-Live-TV-Online.png" group-title="Musica", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="Musica", m2o TV
+https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="Musica", Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Musica", Music Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="Musica", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92304f302ee6793a5539dd19d3261ed2.webp" group-title="Musica", RCKTV
+https://inliveserver.com:1936/11530/11530/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://theretrochannel.tv/img/retroplayer.jpg" group-title="Musica", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/82feb5_a2f12f6a37674d0992e2ee48d08b0fd4~mv2_d_1280_1235_s_2.jpg" group-title="Musica", TV vconline.cl
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiotv.pro/templates/rt_antares/custom/images/radiotv-1000px.jpg" group-title="Musica", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6Oh8gjWt6z8/X3pWO0u5KcI/AAAAAAAAHy0/s9Kss3RRtnIylSWcoiC3UwuevHBModlogCK4BGAYYCw/s1600/video%2Btour%2Bchannel.jpg" group-title="Musica", Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://toplatino.net/wp-content/uploads/2019/04/cropped-LogoTL-300-new-9.png" group-title="Musica", TOP Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Musica", Turbo Mix TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+
+#EXTINF:-1 group-title="Mexico",Foro
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+#EXTINF:-1 group-title="Mexico", CANAL 4 MONTERREY
+https://ythls-v3.onrender.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+#EXTINF:-1 group-title="Mexico", CANAL 4 GUADALAJARA
+https://ythls-v3.onrender.com/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+
+
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CRIME
+http://clubtv.link/marzo17/phpcode/lista0.php?c=32&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CINEMA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=36&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL PREMIER
+http://clubtv.link/marzo17/phpcode/lista0.php?c=31&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL REALITY
+http://clubtv.link/marzo17/phpcode/lista0.php?c=35&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSAL CHANNEL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=38&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO PLUS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=21&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=24&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO FAMILY
+http://clubtv.link/marzo17/phpcode/lista0.php?c=22&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO SIGNATURE
+http://clubtv.link/marzo17/phpcode/lista0.php?c=20&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HBO XTREME
+http://clubtv.link/marzo17/phpcode/lista0.php?c=16&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AXN
+http://clubtv.link/marzo17/phpcode/lista0.php?c=55&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", SPACE
+http://clubtv.link/marzo17/phpcode/lista0.php?c=10&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT
+http://clubtv.link/marzo17/phpcode/lista0.php?c=6&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TNT SERIES
+http://clubtv.link/marzo17/phpcode/lista0.php?c=5&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AMC
+http://clubtv.link/marzo17/phpcode/lista0.php?c=57&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CINECANAL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=50&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CINEMAX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=49&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY CHANNEL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=47&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY TURBO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=80&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", HISTORY CHANNEL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=19&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", NATGEO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=15&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY ID
+http://clubtv.link/marzo17/phpcode/lista0.php?c=18&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY H&H
+http://clubtv.link/marzo17/phpcode/lista0.php?c=46&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", GOLDEN PLUS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=26&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", GOLDEN PREMIER
+http://clubtv.link/marzo17/phpcode/lista0.php?c=25&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", PARAMOUNT NETWORK
+http://clubtv.link/marzo17/phpcode/lista0.php?c=12&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", USA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=9&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", FX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=27&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVISION LLEGA (LA)
+http://clubtv.link/marzo17/phpcode/lista0.php?c=3&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", SONY
+http://clubtv.link/marzo17/phpcode/lista0.php?c=11&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ANIMAL PLANET
+http://clubtv.link/marzo17/phpcode/lista0.php?c=56&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", A&E
+http://clubtv.link/marzo17/phpcode/lista0.php?c=58&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", WARNER
+http://clubtv.link/marzo17/phpcode/lista0.php?c=2&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TELEMUNDO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=7&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", LIFE TIME
+http://clubtv.link/marzo17/phpcode/lista0.php?c=33&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", STAR CHANNEL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=37&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", UNIVERSO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=68&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TLNOVELAS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=69&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", STUDIO UNIVERSAL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=70&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", RCN
+http://clubtv.link/marzo17/phpcode/lista0.php?c=71&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TCM
+http://clubtv.link/marzo17/phpcode/lista0.php?c=73&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CLARO CINEMA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=83&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CINE LATINO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=84&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CINEMA DINAMITA MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=85&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CARACOL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=86&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AZ MUNDO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=87&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY CHANNEL
+http://clubtv.link/marzo17/phpcode/lista0.php?c=44&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISCOVERY KIDS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=45&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CARTOON NETWORK
+http://clubtv.link/marzo17/phpcode/lista0.php?c=51&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TOONCAST
+http://clubtv.link/marzo17/phpcode/lista0.php?c=14&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", NICK  JR
+http://clubtv.link/marzo17/phpcode/lista0.php?c=13&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DISNEY JR
+http://clubtv.link/marzo17/phpcode/lista0.php?c=43&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AZTECA UNO
+http://clubtv.link/marzo17/phpcode/lista0.php?c=1&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", AZTECA 7
+http://clubtv.link/marzo17/phpcode/lista0.php?c=54&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CANAL 5
+http://clubtv.link/marzo17/phpcode/lista0.php?c=52&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", DE PELICULA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=48&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", LAS ESTRELLAS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=17&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 1 MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=41&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=40&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3 MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=39&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 1 MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=30&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", FOX SPORTS 3 MX
+http://clubtv.link/marzo17/phpcode/lista0.php?c=28&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", WIN SPORTS +
+http://clubtv.link/marzo17/phpcode/lista0.php?c=66&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", WIN SPORTS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=67&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", NBA TV
+http://clubtv.link/marzo17/phpcode/lista0.php?c=74&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", GOLTV
+http://clubtv.link/marzo17/phpcode/lista0.php?c=76&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", LA LIGA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=75&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN SUR
+http://clubtv.link/marzo17/phpcode/lista0.php?c=77&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 2 SUR
+http://clubtv.link/marzo17/phpcode/lista0.php?c=79&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", ESPN 3 SUR
+http://clubtv.link/marzo17/phpcode/lista0.php?c=78&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", CLARO SPORTS
+http://clubtv.link/marzo17/phpcode/lista0.php?c=82&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Az Cinema
+http://clubtv.link/marzo17/phpcode/lista0.php?c=89&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Az Corazon
+http://clubtv.link/marzo17/phpcode/lista0.php?c=88&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Cartoonito
+http://clubtv.link/marzo17/phpcode/lista0.php?c=53&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Distrito Comedia
+http://clubtv.link/marzo17/phpcode/lista0.php?c=42&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", TUDN USA
+http://clubtv.link/marzo17/phpcode/lista0.php?c=64&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Universal Comedy
+http://clubtv.link/marzo17/phpcode/lista0.php?c=34&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Universal Reality
+http://clubtv.link/marzo17/phpcode/lista0.php?c=34&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", fox sports 2 mx
+http://clubtv.link/marzo17/phpcode/lista0.php?c=29&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Hbo 2
+http://clubtv.link/marzo17/phpcode/lista0.php?c=23&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1 group-title="CANALES VARIADOS", Nick
+http://clubtv.link/marzo17/phpcode/lista0.php?c=92&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1  group-title="CANALES VARIADOS",A&E	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46526&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",A&E Alt	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46527&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",A&E HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46528&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AMC	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46529&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AMC HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46530&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ANIMAL PLANET	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46531&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ANIMAL PLANET HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46532&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AXN	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46533&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AXN Alt	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46534&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AXN HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46535&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",AZ CINEMA HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46536&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",CINE CANAL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46537&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",CINE CANAL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46538&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",CINEMA DINAMITA	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46571&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",CINEMAX	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46572&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",CINEMAX HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46573&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",COMEDY CENTRAL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46574&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",COMEDY CENTRAL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46575&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DE PELICULA HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46576&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DE PELICULA PLUS	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46577&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DE PELICULA PLUS HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46578&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY CHANNEL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46579&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY CHANNEL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46580&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY H&H	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46582&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY H&H HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46583&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY ID	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46584&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY ID HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46585&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY SCIENCE HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46586&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY THEATER HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46587&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY TLC HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46588&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY TURBO HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46589&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY WORLD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46590&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISCOVERY WORLD HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46591&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",DISTRITO COMEDIA	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46592&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",E! ENTERTAINMENT HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46593&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",EL GOURMET HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46594&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",EUROPA EUROPA	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46595&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",FILM & ARTS	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46596&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES STAR CHANNEL
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46597&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",STAR CHANNEL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46605&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",STAR CHANNEL Alt	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46606&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",FX	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46619&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",FX HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46620&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",FXM	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46621&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",FXM HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46622&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",GLITZ	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46623&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",GOLDEN	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46624&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",GOLDEN EDGE	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46625&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",GOLDEN PLUS HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46626&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",GOLDEN PREMIER HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46627&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",H2 HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46628&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46629&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO 2	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46630&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO 2 HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46631&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO FAMILY	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46632&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO FAMILY HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46633&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46634&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO PLUS	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46635&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO PLUS HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46636&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO SIGNATURE	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46637&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO SIGNATURE HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46638&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HISTORY CHANNEL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46639&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HOLA TV	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46640&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",LIFETIME HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46643&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",MAS CHIC	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46644&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO MUNDI	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46645&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO XTREME HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46646&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",HBO POP HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46647&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",NAT GEO	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46649&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",NAT GEO HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46650&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",PARAMOUNT CHANNEL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46653&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",PARAMOUNT CHANNEL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46654&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",PASIONES	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46655&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",SONY	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46659&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",SONY HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46660&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",SPACE	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46661&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",SPACE HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46662&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",STAR TVE	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46663&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",Studio Universal HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46675&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TNT NOVELAS
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46677&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TNT NOVELAS	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46678&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TCM	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46679&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TNT	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46680&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TNT SERIES	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46682&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",TNT SERIES HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46683&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA CINE HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46684&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA CLASICO HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46685&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA FAMILIA HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46686&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA FILM HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46687&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA MACHO HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46688&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",ULTRA TAINMENT HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46689&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",UNIVERSAL CHANNEL	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46690&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",WARNER CHANNEL HD	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46691&token=TecnotvGeneradorPlaylist&f=.m3u8
+#EXTINF:-1  group-title="CANALES VARIADOS",WOBI	
+http://clubtv.link/marzo17/phpcode/lista4.php?c=46692&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+
+#EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="Religion",El Sembrador Nueva Evangelización
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Religion",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Religion",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
