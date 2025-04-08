@@ -89,8 +89,8 @@ http://185.189.225.150:85/Paramount/index.m3u8
 https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tv-logo="https://png2.cleanpng.com/downloadpng/17a744e184dd0eb166815aa9a51ac13e/L4Dxd3E5UME5OGc1T5H9bDBuecT6kP5oNZ10f9G2b3awfrPqTf5ja6ZzgehucoPkfH77hfxmfpp4gdH3LYTofrBskCNmbV5xhAZ9ZYL8PYbpUck4QZQ5eaY8MkO0PoOCUMQyPmg6Sac7OEO8RoO5WMY4OmcziNDw.png" group-title="Sport",NBC Sports
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549306c83595c000815a696/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5102-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=21e31328-eadb-4828-8608-0cc14ce24586
-#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/FINALLY%20BOOMERANG.jpeg" group-title="Cartoons",Boomerang ᴱᴺ (Use Mexico VPN)
-https://oha.to/play/1887937225/index.m3u8
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Channels/Images/FINALLY%20BOOMERANG.jpeg" group-title="Cartoons",Boomerang ᴱᴺ
+http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/512px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="Sport",M+ La Liga España (Use Mexico VPN)
 https://oha.to/play/3996529465/index.m3u8
 #EXTINF:-1 tv-logo="https://i.imgur.com/G1J4IsT.png" group-title="Cartoons",Nickelodeon ᴱˢ
