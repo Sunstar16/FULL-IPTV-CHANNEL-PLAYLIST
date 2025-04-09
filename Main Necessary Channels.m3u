@@ -17,7 +17,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/El_Club_de_la_Comedia.svg/924px-El_Club_de_la_Comedia.svg.png" group-title="Entertainment",El Club De La Comedia ᴱˢ
 https://fast-channels.atresmedia.com/648f47f7a2ffb0e40aeff3ad/648f47f7a2ffb0e40aeff3ad.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel 🇪🇸ᴱˢ (In VPNSuperUnlimitedProxy use server: "Spain17")
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel 🇪🇸ᴱˢ (In VPNSuperUnlimitedProxy use server: "Spain7")
 http://190.123.90.146:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/disney-channel-es.png" group-title="Cartoons",Disney Channel ᴱⁿ⁼ᵁᵏ
 https://wowza1.leisertv.com/live/disneychannel.stream/.m3u8
@@ -95,7 +95,7 @@ https://oha.to/play/3996529465/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/960px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="News",BBC World News
 https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tv-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/spain/canal-hollywood-es.png?raw=true" group-title="Entertainment",Canal Hollywood ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/canal-hollywood-es.png" group-title="Entertainment",Canal Hollywood ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 https://oha.to/play/3288402534/index.m3u8
 #EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 http://oha.to/play/2881668464/index.m3u8
