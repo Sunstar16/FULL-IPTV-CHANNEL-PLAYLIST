@@ -97,3 +97,17 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Canal Hollywood ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 https://oha.to/play/3288402534/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/2881668464/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",Movistar Deportes ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/1188166343/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar Acción ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/3697992438/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar SeriesMania ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/1344073831/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",Movistar F1 ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/1826839470/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar Drama ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/2748019555/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar Estrenos ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+URL: http://oha.to/play/3585307980/index.m3u8
