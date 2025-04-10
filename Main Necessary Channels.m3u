@@ -97,7 +97,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 tv-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/canal-hollywood-es.png" group-title="Entertainment",Canal Hollywood ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 https://oha.to/play/3288402534/index.m3u8
-#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+#EXTINF:-1 tv-logo="https://raw.githubusercontent.com/maincenter/Logotipos-TV/refs/heads/master/development/IPTV/MoviStar%2B/Movistar%2B.png" group-title="Entertainment",Movistar + ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 http://oha.to/play/2881668464/index.m3u8
 #EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",Movistar Deportes ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 http://oha.to/play/1188166343/index.m3u8
