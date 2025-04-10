@@ -111,3 +111,7 @@ http://oha.to/play/1826839470/index.m3u8
 http://oha.to/play/2748019555/index.m3u8
 #EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Entertainment",Movistar Estrenos ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
 URL: http://oha.to/play/3585307980/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",Movistar Golf ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+http://oha.to/play/2703480816/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",The Tennis Channel ᴱᴺ
+https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
