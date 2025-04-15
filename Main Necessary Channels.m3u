@@ -115,3 +115,7 @@ URL: http://oha.to/play/3585307980/index.m3u8
 http://oha.to/play/2703480816/index.m3u8
 #EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",The Tennis Channel ᴱᴺ
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/playlist/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",LaLiga TV Hypermotion ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+https://oha.to/play/3958277473/index.m3u8
+#EXTINF:-1 tv-logo="https://github.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/blob/main/Channels/Images/Canal%20Holywood.png?raw=true" group-title="Sport",DAZN LaLiga ᴱˢ(In VPNSuperUnlimitedProxy use server: "Switzerland17")
+https://oha.to/play/3461295847/index.m3u8
